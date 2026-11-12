@@ -237,9 +237,16 @@ export default function Home() {
         <SectionHeading eyebrow="05 / LEARNING" title="Certifications & learning" />
         <div className="cert-list">
           <div><span className="cert-index">01</span><div><h3>Claude Certified Developer — Foundations (CCDV-F)</h3><p>Anthropic · Passed October 2026</p></div><span className="cert-status">CERTIFIED</span></div>
-          <div><span className="cert-index">02</span><div><h3>Neural Networks and Deep Learning</h3><p>DeepLearning.AI · Coursera</p></div></div>
-          <div><span className="cert-index">03</span><div><h3>Introduction to Generative AI & Large Language Models</h3><p>Course certificates</p></div></div>
-          <div><span className="cert-index">04</span><div><h3>The Complete Flutter Development Bootcamp with Dart</h3><p>Development course</p></div></div>
+        <div>
+  <span className="cert-index">02</span>
+  <div>
+    <h3>Neural Networks and Deep Learning</h3>
+    <p>DeepLearning.AI · Coursera</p>
+  </div>
+  <span className="cert-status">CERTIFIED</span>
+</div>
+          <div><span className="cert-index">03</span><div><h3>Introduction to Generative AI & Large Language Models</h3><p>Course certificates</p></div><span className="cert-status">CERTIFIED</span></div>
+          <div><span className="cert-index">04</span><div><h3>The Complete Flutter Development Bootcamp with Dart</h3><p>Development course</p></div><span className="cert-status">CERTIFIED</span></div>
         </div>
       </section>
 
