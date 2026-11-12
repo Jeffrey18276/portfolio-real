@@ -128,7 +128,7 @@ export default function Home() {
           <p className="hero-intro">
             I&apos;m <strong>Jeffrey Tom Shaji</strong>, a software engineer at TCS working on the
             Apple Account project. I build with Java and Spring Boot, and enjoy exploring
-            AI/ML, LLM applications and privacy-preserving technologies.
+            AI/ML, LLM applications.
           </p>
           <div className="hero-actions">
             <a className="button button-primary" href="#projects">Explore my work <ArrowDownRight size={17} /></a>
